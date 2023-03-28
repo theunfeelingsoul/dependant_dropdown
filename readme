@@ -1,7 +1,7 @@
 					Dependant dropdown 
 
 ## What is it?
------------
+
 This code shows you how to create 3 select statments
 where the 2nd select staement's options are populated
 according to what i chosen in the first select and so on.
