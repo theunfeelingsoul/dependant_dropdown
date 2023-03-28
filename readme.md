@@ -1,7 +1,7 @@
-					Dependant dropdown 
+					# Dependant dropdown 
 
-## What is it?
-
+What is it?
+-------------
 This code shows you how to create 3 select statments
 where the 2nd select staement's options are populated
 according to what i chosen in the first select and so on.
@@ -20,8 +20,8 @@ There are 3 files in this project:-
 		a) Contains the queries that populate the select tags.
 		   The MySQLi procedural extension is used.
 
-### Contact
+Contact
 -------
-Email: victorstinefuture@gmail.com
+Email: nvngugi@gmail.com
 Twitter : @unfeelingsoul
 
